@@ -1,7 +1,7 @@
 ### Hi I'm Olivia 👋
 ### 
-### 🔭 I’m currently working on: 
-### -> Undergraduate Research Opportunity Program (UROP) with MIT Scheller Teacher Education Program (STEP) Lab
+### 🔭 I’m currently doing: 
+### -> Masters in Engineering with MIT Media Lab with the Personal Robots Group
 ### 
 ### 🌱 Programming Languages:
 ### -> Python
