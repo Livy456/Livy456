@@ -9,7 +9,6 @@
 ### -> HTML
 ### -> CSS
 ### -> Javascript
-### 😄 Pronouns: she/her/hers 
 
 <!--
 **Livy456/LIvy456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
