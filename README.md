@@ -1,9 +1,9 @@
 ### Hi I'm Olivia 👋
 ### 
-### 🔭 I’m currently doing: 
-### -> Masters in Engineering with MIT Media Lab with the Personal Robots Group
+### I’m currently doing: 
+### -> Full Stack Software Engineering in the MIT Media Lab with the Personal Robots Group
 ### 
-### 🌱 Programming Languages:
+### Programming Languages:
 ### -> Python
 ### -> JAVA
 ### -> HTML
